@@ -1,6 +1,6 @@
 # TRL Fine-Tuning for Llama Models
 
-Welcome to the GitHub repository dedicated to fine-tuning Llama2 and Llama3 models using Transformer Reinforcement Learning (TRL) methods and custom configurations for generating recommendation systems.
+Welcome to this repository dedicated to fine-tuning Llama2 and Llama3 models using Transformer Reinforcement Learning (TRL) methods and custom configurations for generating recommendation systems.
 
 ## Overview
 
