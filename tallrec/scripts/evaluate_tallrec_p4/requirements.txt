@@ -1,0 +1,19 @@
+torch==2.0.1
+torchvision
+boto3
+numpy>=1.20.3
+scikit-learn
+accelerate
+appdirs
+loralib
+# bitsandbytes==0.37.2
+bitsandbytes
+# bitsandbytes-cuda116
+black
+black[jupyter]
+datasets
+peft==0.3.0
+transformers==4.28.0
+sentencepiece
+gradio
+wandb
