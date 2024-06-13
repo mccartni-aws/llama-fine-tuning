@@ -1,6 +1,6 @@
-# TRL Fine-Tuning for Llama Models
+# Fine-Tuning Llama Models on Amazon SageMaker
 
-Welcome to this repository dedicated to fine-tuning Llama2 and Llama3 models using Transformer Reinforcement Learning (TRL) methods and custom configurations for generating recommendation systems.
+Welcome to this repository dedicated to fine-tuning Llama2 and Llama3 models on Amazon SageMaker using Transformer Reinforcement Learning (TRL) methods and custom configurations for generating recommendation systems.
 
 ## Overview
 
@@ -26,4 +26,4 @@ git clone https://github.com/mccartni-aws/llama-training.git
 
 ## Current usage
 
-1. Run the `llama3_orpo_sft.ipynb` notebook, accompanied by the Medium blog titled [Fine-tune Llama3 with ORPO in Amazon SageMaker Studio](https://medium.com/@mccartni/fine-tune-llama3-with-orpo-in-amazon-sagemaker-studio-1b3b1f9a7bd7). 
+1. Run the `llama3_orpo_sft.ipynb` notebook, accompanied by the Medium blog titled [Fine-tune Llama3 with ORPO in Amazon SageMaker Studio](https://medium.com/@mccartni/fine-tune-llama3-with-orpo-in-amazon-sagemaker-studio-1b3b1f9a7bd7).
